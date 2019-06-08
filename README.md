@@ -1,5 +1,6 @@
 # Foggy Forest!
 >You are a Barbarian lost in the Foggy Forest!!! 
+
 >Will you be able to get out of this foggy wasteland or be stuck here for eternity?
 
 Let's find out!
@@ -11,6 +12,7 @@ Let's find out!
 
 ## How to Use?
 > To build the project you need to go to *Menu>Build Settings>your-os>Build And Run*
+
 > Don't forget to change the **Bundle Id** under the *Menu>Build Settings>your-os>Player Preferences*
 
 ## License
