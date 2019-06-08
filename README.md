@@ -14,7 +14,4 @@ Let's find out!
 > Don't forget to change the **Bundle Id** under the *Menu>Build Settings>your-os>Player Preferences*
 
 ## License
-
-[![The GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)](https://www.gnu.org/licenses/gpl-3.0.en.html)
-
 Foggy Forest is licensed under a [The GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
