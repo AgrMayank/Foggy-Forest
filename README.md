@@ -1,9 +1,16 @@
 # Foggy Forest!
->You are a Barbarian lost in the Foggy Forest!!! 
 
->Will you be able to get out of this foggy wasteland or be stuck here for eternity?
+<p align="center">
+  <br>
+  <img src="Barbarian.jpg" alt="logo of Unity">
+  <br>
+  <br>
+</p>
 
-Let's find out!
+    You are a Barbarian lost in the Foggy Forest!!! 
+    Will you be able to get out of this foggy wasteland or be stuck here for eternity?
+    
+    Let's find out!
 
 # Quickstart
 - Download [Unity](https://unity3d.com/get-unity/download/archive) version 2018 or above.
