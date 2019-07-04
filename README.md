@@ -5,14 +5,15 @@
   <img src="Barbarian.jpg" alt="logo of Unity">
   <br>
   <br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/lYNYlB1hgU8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  <br>
 </p>
 
     You are a Barbarian lost in the Foggy Forest!!! 
     Will you be able to get out of this foggy wasteland or be stuck here for eternity?
     
     Let's find out!
+
+# Demo
+    YouTube URL - https://youtu.be/lYNYlB1hgU8
 
 # Quickstart
 - Download [Unity](https://unity3d.com/get-unity/download/archive) version 2018 or above.
