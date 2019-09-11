@@ -13,7 +13,7 @@
     Let's find out!
 
 # Demo
-- YouTube URL - [https://youtu.be/lYNYlB1hgU8](https://youtu.be/lYNYlB1hgU8)
+YouTube URL - https://youtu.be/lYNYlB1hgU8
 
 # Quickstart
 - Download [Unity](https://unity3d.com/get-unity/download/archive) version 2018 or above.
