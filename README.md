@@ -2,7 +2,7 @@
 
 <p align="center">
   <br>
-  <img src="Barbarian.jpg" alt="logo of Unity">
+  <img src="Barbarian.jpg" alt="Barbarian in Foggy Forest">
   <br>
   <br>
 </p>
